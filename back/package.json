@@ -1,0 +1,30 @@
+{
+  "name": "breakable",
+  "version": "1.0.0",
+  "description": "this is the first project",
+  "main": "\\",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaMorales/breakabletoy.git"
+  },
+  "keywords": [
+    "breakabletoy"
+  ],
+  "author": "omoraless",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlgaMorales/breakabletoy/issues"
+  },
+  "homepage": "https://github.com/OlgaMorales/breakabletoy#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-body": "^4.1.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-json": "^2.0.2",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.4.19"
+  }
+}
